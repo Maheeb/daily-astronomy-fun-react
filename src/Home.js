@@ -30,7 +30,7 @@ getresult();
     <h4>{explanation}</h4>
     </div>
     <div className='image'>
-    <img src={img} width="1000px" height="1000px"></img>
+    <img src={img} width="1000px" height="1000px" alt="Space"></img>
     </div>
     <div>
       <p  style={{textAlign:'center'}}> <a href={img}>photo/video Link</a>  </p>
